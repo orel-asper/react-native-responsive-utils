@@ -1,0 +1,28 @@
+{
+  "name": "react-native-responsive-utils",
+  "version": "1.0.0",
+  "description": "A library for handling responsive dimensions in React Native",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orel-asper/react-native-responsive-utils.git"
+  },
+  "keywords": [
+    "react-native",
+    "responsive",
+    "utils"
+  ],
+  "author": "Orel Asper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orel-asper/react-native-responsive-utils/issues"
+  },
+  "homepage": "https://github.com/orel-asper/react-native-responsive-utils#readme",
+  "dependencies": {
+    "react-native": "^0.71.10"
+  }
+}
